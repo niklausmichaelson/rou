@@ -26,9 +26,7 @@ void setIO()
 
 int main()
 {
-    setIO();
-    cin>>n>>m;
-    
+   
    
     return 0;
 }
